@@ -1,0 +1,46 @@
+/*Global styles */
+html, body {
+    background-color: lavender;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* Nav/header */
+
+h1 {
+    font-size: 48px;
+    color: grey;
+    text-align: center;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: grey;
+}
+nav h1 {
+    font-size: 36px;
+    color: black;
+    font-weight: bold;
+    
+}
+nav ul {
+    color: white;
+    list-style-type: none;
+    display: flex;
+}
+nav ul li{
+    padding: 5px 10px;
+}
+nav ul li a {
+    color: white;
+    
+}
+nav ul a {
+
+}
+
+h2 {
+    font-size: 24px;
+    color: white;
+    text-align: center;
+}
