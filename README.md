@@ -1,5 +1,5 @@
 # my-portfolio-page-2
-homework challenge 2
+homework challenge 2. creating my portfolio page
 
 ## User Story
 * I WANT to view a potential employee's deployed portfolio of work samples
