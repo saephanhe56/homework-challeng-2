@@ -1,4 +1,4 @@
-# my-portfolio-page-2
+# my-portfolio-page
 homework challenge 2. creating my portfolio page
 
 ## User Story
