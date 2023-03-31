@@ -1,4 +1,4 @@
-# homework-challenge-2
+# my-portfolio-page-2
 homework challenge 2
 
 ## User Story
