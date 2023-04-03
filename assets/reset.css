@@ -1,3 +1,13 @@
+/* reset stylesheet reduce browser inconsistencies */
 body {
     margin: 0;
+    padding: 0;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+h1, h2 {
+    font-size: 100%;
 }
