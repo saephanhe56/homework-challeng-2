@@ -21,10 +21,15 @@ homework challenge 2. creating my portfolio page
 * THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Actions Completed
-*
-*
-*
-*
-*
+* Created a basic portfolio webpage
+* Titled, show's developer's name, recent photo, and links to sections for more info
+* created links when clicked in the navigation, the UI scrolls to the corresponding section
+* Created linked images when clicked, a new web page opens showing the app/webpage
+* Delevoper's first project image is larger than others
+* Responsive layout that adapts to viewport
+
+## Page Link
+https://saephanhe56.github.io/my-portfolio-page/
 
 ## Mock Up
+![screenshot](/my-portfolio-page/assets/screenshot.jpg)
