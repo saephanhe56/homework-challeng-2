@@ -32,4 +32,4 @@ homework challenge 2. creating my portfolio page
 https://saephanhe56.github.io/my-portfolio-page/
 
 ## Mock Up
-![screenshot](/my-portfolio-page/assets/screenshot.jpg)
+![screenshot](assets/screenshot.jpg)
